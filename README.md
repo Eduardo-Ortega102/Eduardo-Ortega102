@@ -18,9 +18,19 @@ If you want to know more about me, you can visit my website at [www.theagilecraf
 
 ## 📫 How to reach me
 
-<p >
-  <a target="_blank" rel="noopener noreferrer" href="https://es.linkedin.com/in/eortegan/en/"><img src="https://github.com/Eduardo-Ortega102/Eduardo-Ortega102/blob/master/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/duardnaranjo"><img src="https://github.com/Eduardo-Ortega102/Eduardo-Ortega102/blob/master/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://www.theagilecrafter.com/"><img src="https://github.com/Eduardo-Ortega102/Eduardo-Ortega102/blob/master/website.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+
+<p>
+    <a href="https://www.linkedin.com/in/eortegan">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-Eduardo%20Ortega%20Naranjo-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white">
+    </a>
+    <a href="https://twitter.com/duardnaranjo">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40DuardNaranjo&amp;style=social&amp;url=https%3A%2F%2Ftwitter.com%2Fduardnaranjo">
+    </a>
+    <a href="https://www.theagilecrafter.com/">
+        <img alt="Website" src="https://img.shields.io/badge/-www.theagilecrafter.com-E34F26?style=flat&amp;logo=HTML5&amp;logoColor=white">
+    </a>
+    <a href="https://github.com/Eduardo-Ortega102">
+        <img alt="GitHub" src="https://img.shields.io/badge/-%40Eduardo--Ortega102-181717?style=flat&amp;logo=GitHub&amp;logoColor=white">
+    </a>
 </p>
 
