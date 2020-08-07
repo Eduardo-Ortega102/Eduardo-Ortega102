@@ -21,6 +21,6 @@ If you want to know more about me, you can visit my website at [www.theagilecraf
 [![LinkedIn](https://img.shields.io/badge/-Eduardo%20Ortega%20Naranjo-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/eortegan/)
 [![Twitter](https://img.shields.io/twitter/url?label=%40DuardNaranjo&amp;style=social&amp;url=https%3A%2F%2Ftwitter.com%2Fduardnaranjo)](https://twitter.com/duardnaranjo/)
 [![Website](https://img.shields.io/badge/-www.theagilecrafter.com-E34F26?style=flat&amp;logo=HTML5&amp;logoColor=white)](https://www.theagilecrafter.com/)
-[![GitHub](https://img.shields.io/badge/-%40Eduardo--Ortega102-181717?style=flat&amp;logo=GitHub&amp;logoColor=white)](https://github.com/Eduardo-Ortega102/)
+[![GitHub Gists](https://img.shields.io/badge/-GitHub%20Gist-181717?style=flat&amp;logo=GitHub&amp;logoColor=white)](https://gist.github.com/Eduardo-Ortega102)
 
 
