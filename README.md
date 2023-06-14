@@ -8,11 +8,10 @@ I'm a software engineer who is passionate about making easy-to-use software. Som
 
 ## Some things about me...
 
-- 🔭 I’m currently finishing my dissertation to graduate as Software Engineer;
-- 🌱 I’m currently learning about Neural Networks;
+- 🔭 I’m currently working at Edataconsulting as Software Engineer;
 - 💻 I have worked using Java, Python, HTML/CSS, Javascript, React, MySQL, Docker, etc;
 - 💬 Ask me about anything, I’m happy to help;
-- ⚡ Fun fact: I like to collect typewriters and try to restore and customize them;
+- ⚡ Fun facts: I like to collect typewriters and I'm also learning blacksmithing;
 
 If you want to know more about me, you can visit my website at [www.theagilecrafter.com](https://www.theagilecrafter.com/)
 
